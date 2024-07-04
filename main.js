@@ -23,6 +23,18 @@
 //console.log(addEvenNum(12))
 
 
-let grades = [["sam","john","jones"],83,["kelvin","hart"],85,["durant","kevin"],93,72]
+//let grades = [["sam","john","jones"],83,["kelvin","hart"],85,["durant","kevin"],93,72]
 //jones is not sam but kevin john is 85 years old
-console.log(`${grades[0][2]} is not ${grades[0][0]} but ${grades[4][1]} ${grades[0][1]} is ${grades[3]} years old`)
+//console.log(`${grades[0][2]} is not ${grades[0][0]} but ${grades[4][1]} ${grades[0][1]} is ${grades[3]} years old`)
+//grades.pop()
+//let removed = grades.pop()
+//grades.push("i am the new bro in town")
+//console.log(grades);
+//console.log(`i was ${removed}`);
+
+let student= {
+    name: "john",
+    age: "20",
+    grade: "85"
+}
+console.log(student.age)
