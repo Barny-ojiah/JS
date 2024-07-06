@@ -32,9 +32,10 @@
 //console.log(grades);
 //console.log(`i was ${removed}`);
 
-let student= {
-    name: "john",
-    age: "20",
-    grade: "85"
-}
-console.log(student.age)
+//let student= {
+//    name: "john",
+//  age: "20",
+ //  grade: "85"
+//}
+//console.log(student.age)
+
